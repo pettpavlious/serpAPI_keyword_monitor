@@ -38,7 +38,7 @@ pip install -r requirement.txt
 python serp_api_run.py 
 ```
 
-### In case that the API returns no results for a keyword then the row of said keyword will contain 0 as the position along with the outputs of the API.
+- In case that the API returns no results for a keyword then the row of said keyword will contain 0 as the position along with the outputs of the API.
 
 ## Logs
 
