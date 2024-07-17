@@ -1,4 +1,4 @@
-# About serp_api_extractor
+# About serpAPI_keyword_monitor
 
 This repository provides an end to end API pipeline for SerpAPI that provides a dataframe containing results for each specified keyword that is mentioned.
 
