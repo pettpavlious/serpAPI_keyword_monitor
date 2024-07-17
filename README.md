@@ -31,7 +31,7 @@ pip install -r requirement.txt
 ```
 ### Step three: Configure all parameters in json_config.csv
 
-#### The json_config.csv contains extra parameters that are not necessary for the API, but can be useful. Feel free to remove or make any changes if they are unnecessary.
+- The json_config.csv contains extra parameters that are not necessary for the API, but can be useful. Feel free to remove or make any changes if they are unnecessary.
 
 ### Step four: Run the serp_api_run.py
 ```bash
