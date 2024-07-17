@@ -7,13 +7,13 @@ As this is a solution for modern day businesses with multiple brands, the soluti
 
 ## About use
 
--The repo contains and .env varibale that stores the key of the API.
+- The repo contains and .env varibale that stores the key of the API.
 
 
--The repo contains a json_config.csv file in which the user can add the parameters and keywords that they want to monitor when the API makes a call.
+- The repo contains a json_config.csv file in which the user can add the parameters and keywords that they want to monitor when the API makes a call.
 
 
--The solution receives a dictionary containing the result of the search for a specific keyword (along with other parameters). Then it searches for the URL of the website we are trying to monitor for and retains only that.
+- The solution receives a dictionary containing the result of the search for a specific keyword (along with other parameters). Then it searches for the URL of the website we are trying to monitor for and retains only that.
 
 ## Get started
 
