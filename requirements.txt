@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+serpapi
+pendulum
+datetime
+google-search-results
