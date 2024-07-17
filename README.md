@@ -18,8 +18,8 @@ As this is a solution for modern day businesses with multiple brands, the soluti
 ## Get started
 
 ```bash
-git clone git@github.com:PoromenoC96/serp_api_extractor.git
-cd serp_api_extractor
+git clone git@github.com:pettpavlious/serpAPI_keyword_monitor.git
+cd serpAPI_keyword_monitor
 ```
 
 ### Step one: Add your key in the .env file
